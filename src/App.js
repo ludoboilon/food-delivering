@@ -7,6 +7,7 @@ import Food from './components/Food';
 import Category from './components/Category';
 
 function App() {
+
   return (
     <div className="App">
       <Navbar />
