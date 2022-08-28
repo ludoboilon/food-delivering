@@ -1,6 +1,6 @@
 # Food Delivering PWA
 
-This is the front-end part of a fake "Food delivering" app. I made it "mobile first" as a Progressive Web App, using React, React-icons, TailwindCSS and some images from Pexels and Unsplash. This small project use some Javascript to filter foods by category or price with the "filter" method. Foods datas are fetching from a JS file in the "data" folder.
+This is the front-end part of a fake **Food delivering** app. I made it "mobile first" (Progressive Web App), using React, React-icons, TailwindCSS and some images from Pexels and Unsplash. This small project use some Javascript to filter foods by category or price with the "filter" method. Foods datas are fetching from a JS file in the "data" folder.
 
 # Getting Started with Create React App
 
