@@ -10,7 +10,7 @@ export default function HeadlineCards() {
                 <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
                     <p className="font-bold text-2xl px-2 pt-4">Sun's Out, BOGO's Out</p>
                     <p className="px-2">Through 8/26</p>
-                    <button className="border-white bg-white text-black mx-2 absolute bottom-4">Order Now</button>
+                    <button className="border-white bg-white text-black hover:bg-orange-600 hover:text-white mx-2 absolute bottom-4">Order Now</button>
                 </div>
                 <img
                     className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
@@ -24,7 +24,7 @@ export default function HeadlineCards() {
                 <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
                     <p className="font-bold text-2xl px-2 pt-4">New Restaurants</p>
                     <p className="px-2">Added Daily</p>
-                    <button className="border-white bg-white text-black mx-2 absolute bottom-4">Order Now</button>
+                    <button className="border-white bg-white text-black hover:bg-orange-600 hover:text-white mx-2 absolute bottom-4">Order Now</button>
                 </div>
                 <img
                     className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
@@ -38,7 +38,7 @@ export default function HeadlineCards() {
                 <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
                     <p className="font-bold text-2xl px-2 pt-4">Special Pizza Month</p>
                     <p className="px-2">Cheaper and Tastier</p>
-                    <button className="border-white bg-white text-black mx-2 absolute bottom-4">Order Now</button>
+                    <button className="border-white bg-white text-black hover:bg-orange-600 hover:text-white mx-2 absolute bottom-4">Order Now</button>
                 </div>
                 <img
                     className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
